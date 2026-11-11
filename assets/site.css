@@ -94,3 +94,6 @@ body.vi table.t th{border:1px solid #000}body.vi a{text-decoration:underline}bod
  #main{padding:10px 12px}.tiles{grid-template-columns:1fr 1fr}.two{grid-template-columns:1fr}
  table.t{display:block;overflow-x:auto}.intro img{float:none;max-width:100%;margin:0 0 8px}.fr{width:80px;height:80px}
 }
+
+/* photos on the inner pages */
+.ph{float:right;width:320px;max-width:46%;margin:2px 0 10px 16px;padding:0;border:0;display:block}.ph img{display:block;width:100%;height:auto;border:1px solid #bbb;padding:2px;background:#fff;box-sizing:border-box}.ph figcaption{font-size:12px;line-height:1.35;color:#555;margin-top:4px}.ph~h2,.ph~h3,.ph~table,.ph~.table{clear:right}@media (max-width:640px){.ph{float:none;width:100%;max-width:100%;margin:0 0 12px}}
